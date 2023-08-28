@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cotypolis
 - 👀 I’m interested in machine learning and AI
-- 🌱 I’m currently learning different techniques on the analysis of decision making.
-- 💞️ I’m looking to collaborate on machine learning applied to decision making, my research is about the effects of labelling on consumer choices
+- 🌱 I’m currently playing with techniques on the analysis of decision making.
+- 💞️ I’m looking to collaborate on machine learning applied
 - 📫 How to reach me constanza.avalos@postgrad.manchester.ac.uk
 
 <!---
